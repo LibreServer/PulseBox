@@ -70,13 +70,12 @@ settings:
   async-chunks:
     threads: -1
 messages:
-  no-permission: '&cI''m sorry, but you do not have permission to perform this command.
-    Please contact the server administrators if you believe that this is in error.'
+  no-permission: '&cУ вас нет прав.'
   kick:
     authentication-servers-down: ''
-    connection-throttle: Connection throttled! Please wait before reconnecting.
-    flying-player: Flying is not enabled on this server
-    flying-vehicle: Flying is not enabled on this server
+    connection-throttle: Соединение ограничено! Пожалуйста, подождите перед повторным подключением.
+    flying-player: Полёт запрещён
+    flying-vehicle: Полёт запрещён
 timings:
   enabled: true
   verbose: true
